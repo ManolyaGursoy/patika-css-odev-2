@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffff;
+}
+/********** Google! logo *********/
+figure {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+/********** Table ***********/
+table  {
+    width: 90%;
+    border: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+/*********** Table Data (Each cell given ids) ******/
+#td1 {
+    background-color: #EEEEEE;
+    
+}
+#td2 {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+#td3 {
+    background-color: #70CCC2;
+}
+#td4 {
+    background-color: #62B3AA;
+    
+}
+/************** Footer-like copyright info ********/
+p {
+    text-align: center;
+}
